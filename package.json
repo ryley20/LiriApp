@@ -1,0 +1,23 @@
+{
+  "name": "LiriApp",
+  "version": "1.0.0",
+  "description": "Liri app for bootcamp homework",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryley20/LiriApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryley20/LiriApp/issues"
+  },
+  "homepage": "https://github.com/ryley20/LiriApp#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
